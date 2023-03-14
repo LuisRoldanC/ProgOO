@@ -9,4 +9,4 @@
 ###### Carrera: Ingenieria En Sistemas Computacionales
 ###### Unidad 1
 
-[Investigacion U-1](./ParadigmaOO/README.md)
+[Investigacion Unidad 1](./ParadigmaOO/README.md)
