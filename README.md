@@ -1,4 +1,3 @@
-# ProgOO
 
 # Tecnologico Nacional Mexicano - Instituto Tecnologico de Tijuana
 
