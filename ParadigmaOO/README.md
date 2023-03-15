@@ -9,9 +9,9 @@ La Programación Oritnetada a Objetos es un paradigma de la programación que se
 
 El primer lenguaje de programación orientado objeto fue SmallTalk creado por Alan Kay en Xerox PARC, ubicada en Palo alto, California, Estados Unidos.
 
-__Abstraccion__
+__Abstracción__
 
-La abstraccion en programacion es capturar las caracteristicas y funcionalidad de un objeto, y estos representarlos por medio de clases y atributos en una clase. Es fundamental en la programacion ya que nos sirve para poner mas a detalle sobre lo que queremos programar o las caracteristicas que va tener ese objeto el cual vamos a declarar o hacer.
+La abstracción en programación es capturar las caracteristicas y funcionalidad de un objeto, y estos representarlos por medio de clases y atributos en una clase. Es fundamental en la programación ya que nos sirve para poner más a detalle sobre lo que queremos programar o las caracteristicas que va tener ese objeto el cual vamos a declarar o hacer.
 
 __Encapsulamiento__
 
