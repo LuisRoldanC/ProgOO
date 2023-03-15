@@ -45,3 +45,8 @@ Uno de los diagramas más utilizados en UML es el Diagrama de Clases, que muestr
 Existen varias herramientas de modelado que admiten UML, como Enterprise Architect, MagicDraw, Rational Rose, Visual Paradigm, entre otras.
 
 En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo de software utilicen esta metodología y lenguaje para modelar sus sistemas. Una de las empresa que lo utiliza es Apple.
+
+__Referencias bibliograficas__
+
+[https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).](https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).)
+
