@@ -9,8 +9,5 @@
 ###### Carrera: Ingenieria En Sistemas Computacionales
 ###### Unidad 1
 
-[Investigacion Unidad 1](./ParadigmaOO/README.md)
-
-
 ## Indice
 1. [Investigacion Unidad 1](https://github.com/LuisRoldanC/ProgOO/tree/main/ParadigmaOO)
