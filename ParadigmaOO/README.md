@@ -48,5 +48,5 @@ En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo 
 
 __Referencias bibliograficas__
 
-[https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).](https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).)
+[https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).](https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D)
 
