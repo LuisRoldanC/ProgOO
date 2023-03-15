@@ -17,7 +17,7 @@ __Encapsulamiento__
 
 Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
 
-Sistema con encapsulamiento
+**Sistema con encapsulamiento**
 
 ![](https://github.com/LuisRoldanC/ProgOO/blob/main/Encapsulamiento.png)
 
