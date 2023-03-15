@@ -62,6 +62,14 @@ En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo 
 
 ![](https://github.com/LuisRoldanC/ProgOO/blob/main/Maquina%20Expendedora%20UML.png)
 
+En el presente diagrama se desarrolla el modelo UML de una Maquina Expendedora, la cual hace referencia a la venta de productos comestibles y de articulos diarios.
+
+Entre las clases que integran la maquina expendedora esta la clase Pago que realiza un conteo con el metodo conteo del el dinero que introduce el usuario a la maquina con la clase efecto y de esta se componen la clase billete y moneda que tiene un atributo de valor de la moneda o billete, acompañados por un getPago, al ingresa el dinero, tenemos una clase maquina expendedora con los metodos de Dispensar el producto, realizar pago y seleccionar producto que estan ligados a una clase almacen que contiene el metodo de getAlmacenamiento que es donde se encuentras los productos y todo el dinero almacenado.
+
+Ahora tenemos una clase producto de la cual tiene los atributos de nombre, precio, cantidad y de esta heredan la clase bebida, que asu vez tiene los atributos de marca y sabor, despues una clase snack que tambien contiene los atributos de tipo y marca, y al final dea clase ArticuloUsoDiario, que tiene atributo de tipo y marca que tienen cardilnalidad que es el total de productos que puede aver en la maquina que en bebidas son de 8 a 1, en snack de 10 a 1 y ArticuloUsoDiario de 5 a 1.
+
+Al igual la clase producto tiene un tipo de producto la cual contiene el nombre del tpo de producto el cual va dispensar la maquina, una vez seleccionado el producto o tecleado el producto que queremos el dispensador con el metodo RealizarPago va cobrar el total del producto seleccionado y el dispensador el cual realizo el pago va activar la clase cambio el cual regresara el dinero sobrante con el metodo de cambio.
+
 __Referencias bibliograficas__
 
 [https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).](https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D)
