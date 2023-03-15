@@ -17,6 +17,10 @@ __Encapsulamiento__
 
 Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
 
+Sistema con encapsulamiento
+
+![](https://github.com/LuisRoldanC/ProgOO/blob/main/Encapsulamiento.png)
+
 La encapsulación permite definir niveles de visibilidad para los elementos de la clase, y evita que las clases se entrelasen entre ellas pudiendo provocar un error al momento de querer utilizar variables, metodos etc, y se solucionaria poniendole un nivel de acceso al objeto que va modificar
 
 __Herencia__
