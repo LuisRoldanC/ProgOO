@@ -13,4 +13,4 @@
 
 
 ## Indice
-1. [Investigacion Unidad 1](https://github.com/LuisRoldanC/ProgOO/edit/main/ParadigmaOO/README.md)
+1. [Investigacion Unidad 1](https://github.com/LuisRoldanC/ProgOO/tree/main/ParadigmaOO)
