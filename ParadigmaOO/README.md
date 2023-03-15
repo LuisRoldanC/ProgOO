@@ -1,13 +1,13 @@
 ## ParadigmaOO
-__Definicion de Paradigma__
+__Paradigma__
 
-Un paradigma de programacion se puede definir como un estilo de programacion de software, existen distintas formas de diseñar un lenguaje de programacion y varios modos de trabajar para obtener los resultados que piden los que la utilizan o programadores. Un conjunto de metodos sistematicos aplicables en todos los niveles del diseño del programa para resolver problemas computacionales.
+Un paradigma de programación se puede definir como un estilo de programación de software, existen distintas formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que piden los que la utilizan o programadores. Un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño del programa para resolver problemas computacionales.
 
-__Programacion Orientada a Objetos__
+__Programación Orientada a Objetos__
 
-La Programacion Oritnetada a Objetos es un paradigma de la programacion que se basa en el concepto de clases y objetos. Se puedeestructurar un programa de software en piezas simples y reutilizables de planos codigos (clases) para crear instancias individuales de los objetos.
+La Programación Oritnetada a Objetos es un paradigma de la programación que se basa en el concepto de clases y objetos. Se puedeestructurar un programa de software en piezas simples y reutilizables de planos codigos (clases) para crear instancias individuales de los objetos.
 
-El primer lenguaje de programacion orientado objeto fue SmallTalk creado por Alan Kay en Xerox PARC, ubicada en Palo alto, California, Estados Unidos.
+El primer lenguaje de programación orientado objeto fue SmallTalk creado por Alan Kay en Xerox PARC, ubicada en Palo alto, California, Estados Unidos.
 
 __Abstraccion__
 
@@ -25,7 +25,7 @@ Es el proceso de almacenar en una misma sección los elementos de una abstracci�
 
 ![](https://github.com/LuisRoldanC/ProgOO/blob/main/Sistema%20sin%20encapsulamiento.jpg)
 
-Suponiendo que es una maquina induastrial el cual tiene cables expuestos y si un trbajador lo mueve sin algun tipo de instructivo o conocimiento puedo ocacionar cierto error en la maquina
+Suponiendo que es una maquina induastrial el cual tiene cables expuestos y si un trbajador lo mueve sin algun tipo de instructivo o conocimiento puedo ocasionar cierto error en la maquina
 
 La encapsulación permite definir niveles de visibilidad para los elementos de la clase, y evita que las clases se entrelasen entre ellas pudiendo provocar un error al momento de querer utilizar variables, metodos etc, y se solucionaria poniendole un nivel de acceso al objeto que va modificar
 
