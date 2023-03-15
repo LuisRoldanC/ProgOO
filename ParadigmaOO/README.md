@@ -60,7 +60,7 @@ En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo 
 
 ## UML de Maquina Expendedora
 
-![](https://github.com/LuisRoldanC/ProgOO/blob/main/Maquina%20Expendedora%20UML.png)
+![](https://github.com/LuisRoldanC/ProgOO/blob/main/Maquina%20UML%202.png)
 
 En el presente diagrama se desarrolla el modelo UML de una Maquina Expendedora, la cual hace referencia a la venta de productos comestibles y de articulos diarios.
 
