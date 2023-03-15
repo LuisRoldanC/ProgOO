@@ -21,6 +21,10 @@ Es el proceso de almacenar en una misma sección los elementos de una abstracci�
 
 ![](https://github.com/LuisRoldanC/ProgOO/blob/main/Encapsulamiento.png)
 
+**Sistema sin encapsulamiento**
+![](https://github.com/LuisRoldanC/ProgOO/blob/main/Sistema%20sin%20encapsulamiento.jpg)
+Suponiendo que es una maquina induastrial el cual tiene cables expuestos y si un trbajador lo mueve sin algun tipo de instructivo o conocimiento puedo ocacionar cierto error en la maquina
+
 La encapsulación permite definir niveles de visibilidad para los elementos de la clase, y evita que las clases se entrelasen entre ellas pudiendo provocar un error al momento de querer utilizar variables, metodos etc, y se solucionaria poniendole un nivel de acceso al objeto que va modificar
 
 __Herencia__
