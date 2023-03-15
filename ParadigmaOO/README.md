@@ -1,3 +1,4 @@
+# ParadigmaOO
 __Definicion de Paradigma__
 
 Un paradigma de programacion se puede definir como un estilo de programacion de software, existen distintas formas de diseñar un lenguaje de programacion y varios modos de trabajar para obtener los resultados que piden los que la utilizan o programadores. Un conjunto de metodos sistematicos aplicables en todos los niveles del diseño del programa para resolver problemas computacionales.
