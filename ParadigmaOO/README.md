@@ -33,3 +33,15 @@ __Referencias bibliograficas__
 [https://www.um.es/docencia/barzana/DIVULGACION/INFORMATICA/Historia-primeros-lenguajes.html#:~:text=1972%20%3A%20Creación%20del%20primer%20lenguaje,Alan%20Kay%20en%20Xerox%20PARC.](https://www.um.es/docencia/barzana/DIVULGACION/INFORMATICA/Historia-primeros-lenguajes.html#:~:text=1972%20%3A%20Creación%20del%20primer%20lenguaje,Alan%20Kay%20en%20Xerox%20PARC.)
 
 [https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
+
+# UML
+El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje de modelado gráfico que se utiliza para visualizar, especificar, construir y documentar sistemas de software. Fue desarrollado por un grupo de tres autores: Grady Booch, James Rumbaugh e Ivar Jacobson, en la década de 1990.
+La primera versión del UML se publicó en 1997, y desde entonces ha evolucionado a través de varias versiones. Actualmente, UML es un estándar de la industria respaldado por el Object Management Group (OMG).
+
+El UML se utiliza en una amplia variedad de sistemas, incluyendo sistemas de software, sistemas de información empresarial, sistemas de telecomunicaciones, sistemas embebidos y sistemas en tiempo real. En años recientes, UML ha seguido siendo ampliamente utilizado en la industria del software y ha sido adoptado por muchas empresas y organizaciones en todo el mundo.
+
+Uno de los diagramas más utilizados en UML es el Diagrama de Clases, que muestra la estructura estática del sistema modelado, incluyendo clases, atributos, métodos y relaciones entre clases. Otros diagramas incluyen el Diagrama de Casos de Uso, que muestra la funcionalidad del sistema, y el Diagrama de Secuencia, que muestra cómo las diferentes partes del sistema interactúan entre sí.
+
+Existen varias herramientas de modelado que admiten UML, como Enterprise Architect, MagicDraw, Rational Rose, Visual Paradigm, entre otras.
+
+En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo de software utilicen esta metodología y lenguaje para modelar sus sistemas. No se puede proporcionar información específica sobre una empresa local que lo utilice ya que no se especificó la ubicación.
