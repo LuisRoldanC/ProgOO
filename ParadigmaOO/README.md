@@ -1,4 +1,4 @@
-# ParadigmaOO
+## ParadigmaOO
 __Definicion de Paradigma__
 
 Un paradigma de programacion se puede definir como un estilo de programacion de software, existen distintas formas de diseñar un lenguaje de programacion y varios modos de trabajar para obtener los resultados que piden los que la utilizan o programadores. Un conjunto de metodos sistematicos aplicables en todos los niveles del diseño del programa para resolver problemas computacionales.
@@ -34,7 +34,7 @@ __Referencias bibliograficas__
 
 [https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
 
-# UML
+## UML
 El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje de modelado gráfico que se utiliza para visualizar, especificar, construir y documentar sistemas de software. Fue desarrollado por un grupo de tres autores: Grady Booch, James Rumbaugh e Ivar Jacobson, en la década de 1990.
 La primera versión del UML se publicó en 1997, y desde entonces ha evolucionado a través de varias versiones. Actualmente, UML es un estándar de la industria respaldado por el Object Management Group (OMG).
 
