@@ -58,6 +58,8 @@ Existen varias herramientas de modelado que admiten UML, como Enterprise Archite
 
 En cuanto a empresas que utilizan UML, es común que las empresas de desarrollo de software utilicen esta metodología y lenguaje para modelar sus sistemas. Una de las empresa que lo utiliza es Apple.
 
+##UML de Maquina Expendedora
+![](https://github.com/LuisRoldanC/ProgOO/blob/main/Maquina%20Expendedora%20UML.png)
 __Referencias bibliograficas__
 
 [https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D).](https://biblus.us.es/bibing/proyectos/abreproy/11005/fichero/apéndice+b.pdf+#:~:text=UML%20es%20una%20notación%20que,et%20al.%2C%201992%5D)
