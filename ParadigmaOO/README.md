@@ -21,7 +21,7 @@ __Herencia__
 La herencia es el proceso en la cual tienes una clase padre, y esa clase padre al tener hijos, o subclases estas heredan ciertos atributos, como por ejemplo dentro de una familia pueden ser rasgos, o puntos en los cuales son parecidos a su padre o abuelos.
 
 ![](https://github.com/LuisRoldanC/ProgOO/blob/main/Herencia.png)
-![](https://github.com/LuisRoldanC/ProgOO/blob/main/Herencia2.png)
+![](https://github.com/LuisRoldanC/ProgOO/blob/main/Herencia2)
 
 __Referencias bibliograficas__
 
