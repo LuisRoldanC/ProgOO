@@ -17,6 +17,8 @@ __Encapsulamiento__
 
 Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
 
+La encapsulación permite definir niveles de visibilidad para los elementos de la clase, y evita que las clases se entrelasen entre ellas pudiendo provocar un error al momento de querer utilizar variables, metodos etc, y se solucionaria poniendole un nivel de acceso al objeto que va modificar
+
 __Herencia__
 
 La herencia es el proceso en la cual tienes una clase padre, y esa clase padre al tener hijos, o subclases estas heredan ciertos atributos, como por ejemplo dentro de una familia pueden ser rasgos, o puntos en los cuales son parecidos a su padre o abuelos.
