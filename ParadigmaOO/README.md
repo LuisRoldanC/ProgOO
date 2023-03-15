@@ -16,6 +16,12 @@ __Encapsulamiento__
 
 Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
 
+__Herencia__
+
+La herencia es el proceso en la cual tienes una clase padre, y esa clase padre al tener hijos, o subclases estas heredan ciertos atributos, como por ejemplo dentro de una familia pueden ser rasgos, o puntos en los cuales son parecidos a su padre o abuelos.
+
+Format: ![Herencia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdam.org.es%2Fejemplo-de-herencia%2F&psig=AOvVaw0ljrakOSehi3Demx9ffTMO&ust=1678928826963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj4yLzf3P0CFQAAAAAdAAAAABAD)
+
 __Referencias bibliograficas__
 
 [https://profile.es/blog/que-son-los-paradigmas-de-programacion/](https://profile.es/blog/que-son-los-paradigmas-de-programacion/)
